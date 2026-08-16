@@ -1,0 +1,16 @@
+{
+  "name": "SPUDER AI Assistant",
+  "short_name": "SPUDER",
+  "description": "Assistente Tático SPUDER com Visão Computacional e Voz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020712",
+  "theme_color": "#00f3ff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23020712' stroke='%2300f3ff' stroke-width='4'/><polygon points='50,15 80,35 80,75 50,90 20,75 20,35' fill='none' stroke='%2300f3ff' stroke-width='3'/><circle cx='50' cy='50' r='12' fill='%23ffb800'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
